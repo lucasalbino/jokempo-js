@@ -14,11 +14,11 @@ ___
 
 ## :information_source: Sobre
 
-Script que para jogar Jokempô com a maquina.
+Script para jogar Jokempô com a maquina.
 
 ## :interrobang: Motivo
 
-Criei este script para testar minha habilidades e aprender mais sobre Python
+Criei este script para testar minhas habilidades e aprender mais sobre Python
 
 ## :seedling: Requisitos Mínimos
 
